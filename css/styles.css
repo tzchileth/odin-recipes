@@ -1,0 +1,25 @@
+/* styles.css */
+
+* {
+    line-height: 2.0;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(25, 85, 197);
+    font-weight: bolder;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
